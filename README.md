@@ -70,6 +70,13 @@ Se puede agregar mediante la etiqueta "script" entre las etiquetas del "head" o 
 El elemento "ID" es único y por tanto no se podrá repetir dentro del documento HTML. El elemento "clase" se puede repetir, eso es muy beneficioso cuando aplicamos los mismos estilos a diferentes elementos, puesto que permite reducir las líneas de código.
 
 ### código para hacer un enlace a otra página y que esta se abra en una nueva ventana
+```html
+<head>
+</head>
+<body>
+	<a href="https://www.marca.com/">Marca</a>
+</body>
+```
 ### ¿Qué son las pseudoclases?, pon ejemplos.
 ### Explica el modelo de caja de CSS (margin, border y padding)
 ### Explica que son los selectores de CSS y pon ejemplos
