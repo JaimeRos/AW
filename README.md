@@ -32,6 +32,10 @@ css interno
 </head>
 ...
 ```
+css embebido
+```html
+<p>¡Hola <span style="color:#FF0000">amigo lector</span>!</p>
+```
 ### crea una lista sin ordenar con 5 ingredientes de una receta de cocina
 ### como se puede incluir javascript en HTML
 ### ¿Que diferencia hay entre una clase y una ID
