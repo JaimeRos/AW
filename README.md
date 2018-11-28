@@ -52,6 +52,8 @@ css embebido
 </ul>
 ```
 ### como se puede incluir javascript en HTML
+hay tres maneras de incluir java script en html
+
 ### ¿Que diferencia hay entre una clase y una ID
 ### código para hacer un enlace a otra página y que esta se abra en una nueva ventana
 ### ¿Qué son las pseudoclases?, pon ejemplos.
