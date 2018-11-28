@@ -74,7 +74,7 @@ El elemento "ID" es único y por tanto no se podrá repetir dentro del documento
 <head>
 </head>
 <body>
-	<a href="https://www.marca.com/">Marca</a>
+	<a href="https://www.sport.es/">Sport</a>
 </body>
 ```
 ### ¿Qué son las pseudoclases?, pon ejemplos.
