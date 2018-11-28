@@ -67,6 +67,8 @@ Se puede agregar mediante la etiqueta "script" entre las etiquetas del "head" o 
 ```
 
 ### ¿Que diferencia hay entre una clase y una ID
+El elemento "ID" es único y por tanto no se podrá repetir dentro del documento HTML. El elemento "clase" se puede repetir, eso es muy beneficioso cuando aplicamos los mismos estilos a diferentes elementos, puesto que permite reducir las líneas de código.
+
 ### código para hacer un enlace a otra página y que esta se abra en una nueva ventana
 ### ¿Qué son las pseudoclases?, pon ejemplos.
 ### Explica el modelo de caja de CSS (margin, border y padding)
