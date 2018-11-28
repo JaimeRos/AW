@@ -52,7 +52,19 @@ css embebido
 </ul>
 ```
 ### como se puede incluir javascript en HTML
-hay tres maneras de incluir java script en html
+Se puede agregar mediante la etiqueta "script" entre las etiquetas del "head" o del "body:
+```html
+<html lang="en-US">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<script>JAVASCRIPT ESTA SITUADO AQUÍ</script>
+<title></title>
+</head>
+<body>
+<script>JAVASCRIPT TAMBIÉN PUEDE IR AQUÍ</script>
+</body>
+```
 
 ### ¿Que diferencia hay entre una clase y una ID
 ### código para hacer un enlace a otra página y que esta se abra en una nueva ventana
