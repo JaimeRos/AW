@@ -18,6 +18,20 @@ css externo
 ```html
 <link rel="stylesheet" type="text/css" href="index.css" />
 ```
+css interno
+```html
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Título de la página</title>
+    <style type="text/css">
+        div {
+            background:#FFFFFF;
+        }
+    </style>
+</head>
+...
+```
 ### crea una lista sin ordenar con 5 ingredientes de una receta de cocina
 ### como se puede incluir javascript en HTML
 ### ¿Que diferencia hay entre una clase y una ID
