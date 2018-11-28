@@ -78,6 +78,14 @@ El elemento "ID" es único y por tanto no se podrá repetir dentro del documento
 </body>
 ```
 ### ¿Qué son las pseudoclases?, pon ejemplos.
+Una pseudoclase es una palabra clave que se añade a los selectores y que especifica un estado especial del elemento seleccionado. Ejemplos:
+
+:valid Esta pseudoclase ayuda al usuario a resaltar los campos correctos.
+:fullscreen  se muestra cuando la pantalla está completa.
+:disabled Representa a cualquier elemento que no está activado.
+:focus Representa un elemento que ha sido enfocado, que se ha centrado en él y se activa cuando el usuario hace clic o toca un elemento.
+
+
 ### Explica el modelo de caja de CSS (margin, border y padding)
 ### Explica que son los selectores de CSS y pon ejemplos
 ### Di a quien afectan:
