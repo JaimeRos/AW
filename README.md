@@ -1,9 +1,17 @@
 # AW
 ## HTML y CSS
 ### estructura mínima de una web
-ghgygy
-```html
 
+```html
+<!DOCTYPE html>
+<html>
+<head>
+	<title></title>
+</head>
+<body>
+
+</body>
+</html>
 ```
 explica las 3 formas de usar CSS en HTML
 crea una lista sin ordenar con 5 ingredientes de una receta de cocina
