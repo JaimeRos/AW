@@ -98,6 +98,13 @@ Padding: Es el margen interior de la caja CSS, es decir, entre el límite exteri
 ### Explica que son los selectores de CSS y pon ejemplos
 Indican sobre que elementos se aplicará un conjunto de reglas escritas por el usuario.
 
+El * es poco común. En este caso esta eliminando el margen y el relleno:
+```html
+* {
+  margin: 0;
+  padding: 0;
+}
+```
 
 ### Di a quien afectan:
 p a { color: red;
