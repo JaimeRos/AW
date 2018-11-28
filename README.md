@@ -37,6 +37,20 @@ css embebido
 <p>¡Hola <span style="color:#FF0000">amigo lector</span>!</p>
 ```
 ### crea una lista sin ordenar con 5 ingredientes de una receta de cocina
+```html
+<ul>
+
+<li aceite /li>
+
+<li atun /li>
+
+<li tomate /li>
+	
+<li lechuga /li>
+	
+<li huevo /li>	
+</ul>
+```
 ### como se puede incluir javascript en HTML
 ### ¿Que diferencia hay entre una clase y una ID
 ### código para hacer un enlace a otra página y que esta se abra en una nueva ventana
