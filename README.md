@@ -87,7 +87,18 @@ Una pseudoclase es una palabra clave que se añade a los selectores y que especi
 
 
 ### Explica el modelo de caja de CSS (margin, border y padding)
+
+Border: Es el borde de una caja CSS, tiene por defecto tamaño 0, se puede modificar su grosor, visibilidad, color con la propiedad abreviada border, o cada lado con las siguientes propiedades: border-top, border-right, border-bottom, border-left.
+Estas propiedades establecen el grosor, el estilo y el color respectivamente: border-width, border-style, border-color.
+
+Margin: El margen envuelve la caja CSS y sostiene a las otras cajas del diseño. Se comporta como un padding, se puede modificar con la propiedad margin o cada lado con las siguientes propiedades: margin-left, margin-right, margin-bottom, margin-top.
+
+Padding: Es el margen interior de la caja CSS, es decir, entre el límite exterior de la caja del contenido y el límite interior del borde. EL tamaño de este se puede modificar mediante la propiedad padding o cada lado con las siguientes propiedades: padding-top, padding-right, padding-bottom y padding-left.
+
 ### Explica que son los selectores de CSS y pon ejemplos
+Indican sobre que elementos se aplicará un conjunto de reglas escritas por el usuario.
+
+
 ### Di a quien afectan:
 p a { color: red;
 p > a { color: red; }
