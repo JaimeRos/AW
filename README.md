@@ -26,7 +26,7 @@ css interno
     <title>Título de la página</title>
     <style type="text/css">
         div {
-            background:#FFFFFF;
+            background:#FFFF00;
         }
     </style>
 </head>
@@ -34,7 +34,7 @@ css interno
 ```
 css embebido
 ```html
-<p>¡Hola <span style="color:#FF0000">amigo lector</span>!</p>
+<p>¡Hola <span style="color:#FF0305">amigo </span>!</p>
 ```
 ### crea una lista sin ordenar con 5 ingredientes de una receta de cocina
 ```html
