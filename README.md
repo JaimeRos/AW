@@ -128,10 +128,10 @@ h1, h2, h3 {
 </body>
 ```
 ### Di a quien afectan:
-p a { color: red;
-p > a { color: red; }
-h1 + h2 { color: red }
-a[class] { color: blue; }
-a[class="externo"] { color: blue; }
-a[href="http://www.ejemplo.com"] { color: blue; }
+p a { color: red; - parrafos de color rojo
+p > a { color: red; } - parrafos de color rojo
+h1 + h2 { color: red } - los titulos 1 y 2 de color rojo
+a[class] { color: blue; } - la clase a. de color azul
+a[class="externo"] { color: blue; } - clase que contenga a. y contenga "externo" de color azul
+a[href="http://www.ejemplo.com"] { color: blue; } - 
 ```html
