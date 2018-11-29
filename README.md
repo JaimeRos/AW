@@ -105,7 +105,28 @@ Indican sobre que elementos se aplicará un conjunto de reglas escritas por el u
   padding: 0;
 }
 ```
-
+-Este selector selecciona todos los párrafos de la página
+```html
+p {
+  ...
+}
+```
+-Se agrupan varias reglas individuales en un selector múltiple
+```html
+h1, h2, h3 {
+  color: #8A8E27;
+  font-weight: normal;
+  font-family: Arial, Helvetica, sans-serif;
+}
+`````
+-Una de las soluciones más sencillas para aplicar estilos a un solo elemento de la página es utilizar el atributo class sobre ese elemento para indicar directamente la regla CSS que se le debe aplicar
+```html
+<body>
+  <p class="destacado">Hola</p>
+  <p>Hello</p>
+  <p>ciao</p>
+</body>
+```
 ### Di a quien afectan:
 p a { color: red;
 p > a { color: red; }
